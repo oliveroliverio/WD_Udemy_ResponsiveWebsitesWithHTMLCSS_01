@@ -1,4 +1,6 @@
 # [Course content](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27511920#overview)
+
+Course content
 ## 1. Course Structure and Projects
 
 ## 2. Read Before You Start!
@@ -38,6 +40,58 @@
 ## 19. CHALLENGE #1
 
 ## 20. CHALLENGE #2
+
+## 21. Section Intro
+
+## 22. Introduction to CSS
+
+## 23. Inline, Internal and External CSS
+
+## 24. Styling Text
+
+## 25. Combining Selectors
+
+## 26. Class and ID Selectors
+
+## 27. Working With Colors
+
+## 28. Pseudo-classes
+
+## 29. Styling Hyperlinks
+
+## 30. Using Chrome DevTools
+
+## 31. CSS Theory #1: Conflicts Between Selectors
+
+## 32. CSS Theory #2: Inheritance and the Universal Selector
+
+## 33. CHALLENGE #1
+
+## 34. CSS Theory #3: The CSS Box Model
+
+![](img/2021-12-01-17-49-00.png)
+![](img/2021-12-01-17-49-44.png)
+![](img/2021-12-01-17-50-28.png)
+
+## 35. Using Margins and Paddings
+
+## 36. Adding Dimensions
+
+## 37. Centering our Page
+
+## 38. CHALLENGE #2
+
+## 39. CSS Theory #4: Types of Boxes
+
+## 40. CSS Theory #5: Absolute Positioning
+
+## 41. Pseudo-elements
+
+## 42. Developer Skill #1: Googling and Reading Documentation
+
+## 43. Developer Skill #2: Debugging and Asking Questions
+
+## 44. CHALLENGE #3
 
 ## 45. Section Intro
 
